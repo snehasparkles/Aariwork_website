@@ -19,27 +19,27 @@ def about():
 Modern_works_Blouse =[
 {
     'id':'mwb1' ,
-    'name' : 'item 1',
+    'name' : 'Item 1',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/m1.jpg'
 },
 {
     'id':'mwb2' ,
-    'name' : 'item 2',
+    'name' : 'Item 2',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/m2.jpg'
 },
 {
     'id':'mwb3' ,
-    'name' : 'item 3',
+    'name' : 'Item 3',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/m3.jpg'
 },
 {
     'id':'mwb4' ,
-    'name' : 'item 4',
+    'name' : 'Item 4',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/m4.jpg'
 },
 ]
 
@@ -50,27 +50,27 @@ def Modern():
 Bridal_designer_Blouse =[
 {
     'id':'bbb1' ,
-    'name' : 'item 1',
+    'name' : 'Item 1',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/b1.jpg'
 },
 {
     'id':'bbb2' ,
-    'name' : 'item 2',
+    'name' : 'Item 2',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/b2.jpg'
 },
 {
     'id':'bbb3' ,
-    'name' : 'item 3',
+    'name' : 'Item 3',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/b3.jpg'
 },
 {
     'id':'bbb4' ,
-    'name' : 'item 4',
+    'name' : 'Item 4',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/b4.jpg'
 },
 ]
 
@@ -81,58 +81,58 @@ def Bridal():
 lehengas =[
 {
     'id':'l1' ,
-    'name' : 'item 1',
+    'name' : 'Item 1',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/l1.jpg'
 },
 {
     'id':'l2' ,
-    'name' : 'item 2',
+    'name' : 'Item 2',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/l2.jpg'
 },
 {
     'id':'l3' ,
-    'name' : 'item 3',
+    'name' : 'Item 3',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/l3.jpg'
 },
 {
     'id':'l4' ,
-    'name' : 'item 4',
+    'name' : 'Item 4',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/l4.jpg'
 },
 ]
 
 @app.route('/lehengas')
 def lehenga():
-    return render_template("items.html",title = "lehengas",items = lehengas)
+    return render_template("items.html",title = "lehengas and chudi neck designs",items = lehengas)
 
 Cutworks =[
 {
     'id':'cw1' ,
-    'name' : 'item 1',
+    'name' : 'Item 1',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/cw1.jpeg'
 },
 {
     'id':'cw2' ,
-    'name' : 'item 2',
+    'name' : 'Item 2',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/cw2.jpg'
 },
 {
     'id':'cw3' ,
-    'name' : 'item 3',
+    'name' : 'Item 3',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/cw3.jpg'
 },
 {
     'id':'cw4' ,
-    'name' : 'item 4',
+    'name' : 'Item 4',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/cw4.jpg'
 },
 ]
 
@@ -144,27 +144,27 @@ def Cut_works():
 Mirrorworks =[
 {
     'id':'mw1' ,
-    'name' : 'item 1',
+    'name' : 'Item 1',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/mir1.jpg'
 },
 {
     'id':'mw2' ,
-    'name' : 'item 2',
+    'name' : 'Item 2',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/mir2.jpg'
 },
 {
     'id':'mw3' ,
-    'name' : 'item 3',
+    'name' : 'Item 3',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/mir3.jpg'
 },
 {
     'id':'mw4' ,
-    'name' : 'item 4',
+    'name' : 'Item 4',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/mir4.jpg'
 },
 ]
 
@@ -175,25 +175,25 @@ def Mirror_works():
 ZardosiworkBlouse =[
 {
     'id':'zw1' ,
-    'name' : 'item 1',
+    'name' : 'Item 1',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/z1.jpg'
 },
 {
     'id':'zw2' ,
-    'name' : 'item 2',
+    'name' : 'Item 2',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/z2.jpg'
 },
 {
     'id':'zw3' ,
-    'name' : 'item 3',
+    'name' : 'Item 3',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/z3.jpg'
 },
 {
     'id':'zw4' ,
-    'name' : 'item 4',
+    'name' : 'Item 4',
     'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
@@ -209,27 +209,27 @@ def Zardosiwork():
 SareeWaistBelts =[
 {
     'id':'sw1' ,
-    'name' : 'item 1',
+    'name' : 'Item 1',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/sw3.jpeg'
 },
 {
     'id':'sw2' ,
-    'name' : 'item 2',
+    'name' : 'Item 2',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/sw1.jpg'
 },
 {
     'id':'sw3' ,
-    'name' : 'item 3',
+    'name' : 'Item 3',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/sw2.jpg'
 },
 {
     'id':'sw4' ,
-    'name' : 'item 4',
+    'name' : 'Item 4',
     'price' :'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/sw4.jpg'
 },
 ]
 
@@ -242,27 +242,27 @@ def SareeBelts():
 PattuPavadaiWorks =[
 {
     'id':'ppw1' ,
-    'name' : 'item 1',
+    'name' : 'Item 1',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/p1.jpg'
 },
 {
     'id':'ppw2' ,
-    'name' : 'item 2',
+    'name' : 'Item 2',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/p2.jpg'
 },
 {
     'id':'ppw3' ,
-    'name' : 'item 3',
+    'name' : 'Item 3',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/p3.jpg'
 },
 {
     'id':'ppw4' ,
-    'name' : 'item 4',
+    'name' : 'Item 4',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/p4.jpg'
 },
 ]
 
@@ -275,27 +275,27 @@ def PattuPavadai():
 threeDBlouseworks =[
 {
     'id':'3dw1' ,
-    'name' : 'item 1',
+    'name' : 'Item 1',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/3d1.jpg'
 },
 {
     'id':'3dw2' ,
-    'name' : 'item 2',
+    'name' : 'Item 2',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/3d2.jpg'
 },
 {
     'id':'3dw3' ,
-    'name' : 'item 3',
+    'name' : 'Item 3',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/3d3.jpg'
 },
 {
     'id':'3dw4' ,
-    'name' : 'item 4',
+    'name' : 'Item 4',
     'price' : 'Rs.2000',
-    'img': '/images/c1.jpg'
+    'img': '/images/3d4.jpg'
 },
 ]
 
