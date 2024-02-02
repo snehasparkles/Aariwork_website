@@ -20,25 +20,25 @@ Modern_works_Blouse =[
 {
     'id':'mwb1' ,
     'name' : 'item 1',
-    'price' : 2000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'mwb2' ,
     'name' : 'item 2',
-    'price' : 2000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'mwb3' ,
     'name' : 'item 3',
-    'price' : 2000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'mwb4' ,
     'name' : 'item 4',
-    'price' : 2000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 ]
@@ -51,25 +51,25 @@ Bridal_designer_Blouse =[
 {
     'id':'bbb1' ,
     'name' : 'item 1',
-    'price' : 2500,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'bbb2' ,
     'name' : 'item 2',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'bbb3' ,
     'name' : 'item 3',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'bbb4' ,
     'name' : 'item 4',
-    'price' : 2400,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 ]
@@ -82,25 +82,25 @@ lehengas =[
 {
     'id':'l1' ,
     'name' : 'item 1',
-    'price' : 2500,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'l2' ,
     'name' : 'item 2',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'l3' ,
     'name' : 'item 3',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'l4' ,
     'name' : 'item 4',
-    'price' : 2400,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 ]
@@ -113,25 +113,25 @@ Cutworks =[
 {
     'id':'cw1' ,
     'name' : 'item 1',
-    'price' : 2500,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'cw2' ,
     'name' : 'item 2',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'cw3' ,
     'name' : 'item 3',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'cw4' ,
     'name' : 'item 4',
-    'price' : 2400,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 ]
@@ -145,25 +145,25 @@ Mirrorworks =[
 {
     'id':'mw1' ,
     'name' : 'item 1',
-    'price' : 2500,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'mw2' ,
     'name' : 'item 2',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'mw3' ,
     'name' : 'item 3',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'mw4' ,
     'name' : 'item 4',
-    'price' : 2400,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 ]
@@ -176,25 +176,25 @@ ZardosiworkBlouse =[
 {
     'id':'zw1' ,
     'name' : 'item 1',
-    'price' : 2500,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'zw2' ,
     'name' : 'item 2',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'zw3' ,
     'name' : 'item 3',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'zw4' ,
     'name' : 'item 4',
-    'price' : 2400,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 ]
@@ -210,25 +210,25 @@ SareeWaistBelts =[
 {
     'id':'sw1' ,
     'name' : 'item 1',
-    'price' : 2500,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'sw2' ,
     'name' : 'item 2',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'sw3' ,
     'name' : 'item 3',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'sw4' ,
     'name' : 'item 4',
-    'price' : 2400,
+    'price' :'Rs.2000',
     'img': '/images/c1.jpg'
 },
 ]
@@ -243,25 +243,25 @@ PattuPavadaiWorks =[
 {
     'id':'ppw1' ,
     'name' : 'item 1',
-    'price' : 2500,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'ppw2' ,
     'name' : 'item 2',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'ppw3' ,
     'name' : 'item 3',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'ppw4' ,
     'name' : 'item 4',
-    'price' : 2400,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 ]
@@ -276,25 +276,25 @@ threeDBlouseworks =[
 {
     'id':'3dw1' ,
     'name' : 'item 1',
-    'price' : 2500,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'3dw2' ,
     'name' : 'item 2',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'3dw3' ,
     'name' : 'item 3',
-    'price' : 3000,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 {
     'id':'3dw4' ,
     'name' : 'item 4',
-    'price' : 2400,
+    'price' : 'Rs.2000',
     'img': '/images/c1.jpg'
 },
 ]
@@ -306,4 +306,4 @@ def threeDBlouse():
 
 
 if __name__ == "__main__":
-  app.run(host = '0.0.0.0', port=8080 )
+  app.run(host = '0.0.0.0', port=8080 ,debug=True )

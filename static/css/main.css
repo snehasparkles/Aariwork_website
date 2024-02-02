@@ -72,8 +72,8 @@ html, body {
 
 #head{
     text-align: center;
-   padding-top: 10%;
-    font-size: 38px;
+   padding-top: 60px;
+    font-size: 30px;
     color: #748E63;
 }
 #para{
@@ -172,17 +172,25 @@ html, body {
   
    .overlay-text {
     position: absolute;
-    top: 25%; 
+    top: 30%; 
     left: 50%; 
     transform: translate(-50%, -50%); 
     /* background-color: #000000;  */
     color: #748E63; 
     padding: 10px 20px; 
-    font-size: 20px; 
+    font-size: 28px; 
     text-align: center;
     font-weight: bolder;
-    font-size: 40px;
+    
    }
+
+  .prodtitle{
+    padding-top : 60px;
+    font-size: 28px; 
+    text-align: center;
+    font-weight: bold;
+  }
+
    #map{
     width: auto;
     height: auto;
@@ -221,4 +229,10 @@ html, body {
 
   
 
+}
+.prodtitle{
+  text-align: center;
+  font-size: 40px;
+  color: #748E63;
+  margin-top : auto;
 }
